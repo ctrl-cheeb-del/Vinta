@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://vinta.app/logo.png" alt="Vinta Logo" width="200"/>
-
-# Vinta
+<img src="769shots_so.png" alt="Vinta SS" width="800"/>
 
 ### Track Your Vinted Business With Data, Not Guesses
 
@@ -31,23 +29,12 @@
 
 ### Financial Tools
 - Cost and profit analysis
-- Tax compliance support with HMRC reporting
 - CSV export functionality for tax returns
 - Performance metrics and revenue tracking
 
 ### Automation
 - Automated shipping label generation and cropping
-- Real-time notifications
-- Price optimization tools
 - Bulk operations support
-
-## 💻 Getting Started
-
-Visit [Vinta](https://vinta.app) to start your free trial.
-
-1. Create an account
-2. Connect your Vinted shop
-3. Start tracking your business metrics
 
 ## 📊 Plans and Pricing
 
